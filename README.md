@@ -8,11 +8,11 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 I've created a map using Leaflet that plots all of the earthquakes in the last 7 days from the United States Geological Survey GeoJSON Feed page. Examined and illustrated the relationship between tectonic plates and seismic activity.
 
 Below are the Programming languages used for this project:
+- Bootstrap
+- JavaScript
 - Leaflet
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
 - D3
 - GeoJSON
 
