@@ -1,4 +1,4 @@
-# Visualizing Earthquake Data with Leaflet
+# Data Visualization with Leaflet From (USGS) United States Geological Survey
 
 ![1-Logo](Images/1-Logo.png)
 
